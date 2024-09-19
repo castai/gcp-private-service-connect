@@ -1,0 +1,5 @@
+project_id         = "some-project"
+psc_region         = "europe-west1"
+sample_vm_zone     = "europe-west1-b"
+api_attachment_id  = "projects/engineering-test-353509/regions/europe-west1/serviceAttachments/producer-service"
+grpc_attachment_id = "projects/engineering-test-353509/regions/europe-west1/serviceAttachments/producer-service2"
